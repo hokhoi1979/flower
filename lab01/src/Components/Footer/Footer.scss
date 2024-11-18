@@ -1,0 +1,35 @@
+.Footer{
+    display: flex;
+    background-color: rgba(12, 9, 4, 0.745);
+    height: 280px;
+    .Footer__right{
+
+    }
+
+    .Footer__left{
+        // margin-left: 80px;
+        margin-top: 20px;
+        position: relative;
+        left: 60px;
+        margin-left: 100px;
+        h3{
+            color: white;
+            font-weight: 600;
+        }
+        h6{
+            color: white;
+            font-weight: 200;
+        }
+    }
+}
+
+.Footer__p{
+    p{
+        color: white;
+        margin-top: 250px;
+        position: relative;
+        right: 50px;
+    }  
+}
+ 
+

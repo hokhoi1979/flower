@@ -1,0 +1,83 @@
+@import url('https://fonts.googleapis.com/css2?family=Gowun+Batang:wght@400;700&display=swap');
+//font-family: gowun patang;
+.ContactPage__tiltle{
+    text-align: center;
+    font-family: gowun patang;
+    font-size: 50px;
+    font-weight: 500;
+    margin-top: 10px;
+
+}
+
+.ContactPage__infor{
+    position: relative;
+    left: 150px;
+    background-color: rgb(250, 250, 250);
+    button{
+        font-family: gowun patang;
+        border-radius: 5px;
+        border: 1px solid black;
+        background-color: rgb(13, 165, 215);
+        color: white;
+        width: 120px;
+        height: 30px;
+        margin-left: 100px;
+    }
+
+}
+
+.ContactPage__form1_2{
+    display: flex;
+    margin-left: 100px;
+    font-family: gowun patang;
+    input{
+        border-radius: 3px;
+        border: 1px solid black;
+        width: 250px;
+        font-family: gowun patang;
+    }
+    h3{
+        font-family: gowun patang;
+        font-size: 20px;
+    }
+    .ContactPage__form2{
+        margin-left: 50px;
+    }
+}
+.ContactPage__form3{
+    margin-left: 100px;
+    font-family: gowun patang;
+    h3{
+        font-family: gowun patang;
+        font-size: 20px;
+    }
+    input{
+        width: 550px;
+        border-radius: 3px;
+        border: 1px solid black;
+    }
+}
+
+.ContactPage__form4{
+    margin-left: 100px;
+    font-family: gowun patang;
+    h3{
+        font-family: gowun patang;
+        font-size: 20px;
+    }
+    input{
+        width: 550px;
+        border-radius: 3px;
+        border: 1px solid black;
+    }
+}
+
+.ContactPage__img{
+    position: relative;
+    left: 100px;
+    img{
+        width: 350px;
+        height: 400px;
+        object-fit: cover;
+    }
+}
